@@ -1,0 +1,19 @@
+*.pyc
+__pycache__/
+.env
+.DS_Store
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+*.egg-info
+*.pyc
+*.pyo
+
+TicketAnalyzer.spec
